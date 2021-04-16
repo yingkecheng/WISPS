@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_test">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.wisps.ui.MainFragment"
+        tools:layout="@layout/fragment_main" />
+
+    <fragment
+        android:id="@+id/nav_hey_elena"
+        android:name="com.example.wisps.ui.ElenaFragment"
+        tools:layout="@layout/fragment_elena" />
+
+    <fragment
+        android:id="@+id/nav_alarm"
+        android:name="com.example.wisps.ui.AlarmFragment"
+        tools:layout="@layout/fragment_alarm" />
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.wisps.ui.SettingsFragment"
+        tools:layout="@layout/fragment_settings" >
+        <action
+            android:id="@+id/action_nav_settings_to_nav_main_function"
+            app:destination="@id/nav_main_function" />
+        <action
+            android:id="@+id/action_nav_settings_to_nav_rookie_help"
+            app:destination="@id/nav_rookie_help" />
+        <action
+            android:id="@+id/action_nav_settings_to_nav_about_us"
+            app:destination="@id/nav_about_us" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_test"
+        android:name="com.example.wisps.ui.TestFragment"
+        tools:layout="@layout/fragment_test" />
+
+    <fragment
+        android:id="@+id/nav_main_function"
+        android:name="com.example.wisps.ui.MainFunctionFragment"
+        tools:layout="@layout/fragment_main_function" />
+
+    <fragment
+        android:id="@+id/nav_about_us"
+        android:name="com.example.wisps.ui.AboutUsFragment"
+        tools:layout="@layout/fragment_about_us" />
+
+    <fragment
+        android:id="@+id/nav_rookie_help"
+        android:name="com.example.wisps.ui.RookieHelpFragment"
+        tools:layout="@layout/fragment_rookie_help" />
+
+    <activity
+        android:id="@+id/main_activity"
+        android:name="com.example.wisps.ui.MainActivity"
+        tools:layout="@layout/activity_main">
+
+    </activity><action android:id="@+id/action_global_nav_alarm" app:destination="@id/nav_alarm"/>
+</navigation>

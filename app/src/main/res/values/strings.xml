@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">WISPS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content">从一个眼神一次谈心\n\n
+        到变懂得变熟悉\n\n
+        从累积感动累积回忆\n\n
+        到最甜蜜哦\n\n
+        从闹意见闹情绪\n\n
+        到伤感情耶\n\n
+        从都感觉委屈\n\n
+        到都好强背对背向悲伤走去\n\n
+        无论再久还是牢记\n\n
+        无论再远还是关心\n\n
+        凡是爱过就都烙印在记忆\n\n
+        用失眠去反省\n\n
+        爱凝结成泪的轨迹\n\n
+        学会维系爱情以后不用再惋惜\n\n
+        无论再苦还是动心\n\n
+        无论再难还是努力\n\n
+        服从感性抗拒理性\n\n
+        不愿活着心却死去\n\n
+        用赤裸去热情\n\n
+        不预留余地哦\n\n
+        在我身上流着浪漫血液\n\n
+        哦\n\n
+        我不要冷静耶哦\n\n
+        不屑逃避哦\n\n
+        不怕打击耶\n\n
+        始终相信有真爱将伤痛抚平哦\n\n
+        无论再久还是牢记\n\n
+        无论再远还是关心\n\n
+        凡是爱过就都烙印在记忆\n\n
+        用失眠去反省\n\n
+        爱凝结成泪的轨迹\n\n
+        不断为难自己想借遗憾进化自己\n\n
+        哦无论再苦还是动心\n\n
+        无论再难还是努力\n\n
+        服从感性抗拒理性\n\n
+        不愿活着心却死去\n\n
+        用赤裸去热情\n\n
+        不预留余地哦\n\n
+        在我身上流着浪漫血液\n\n
+        什么伤口都会痊愈\n\n
+        炽热的渴望是勇气\n\n
+        在我身上流着浪漫血液\n\n
+    </string>
+
+    <string name="poem">
+        For everything there is a season, and a time for every matter under heaven\n
+        凡事都有定期，天下万物都有定时。\n\n
+        A time to be born, and a time to die;\n
+        生有时，死有时。\n\n
+        A time to plant, and a time to pluck up what is planted;\n
+        栽种有时，拔出所栽种的，也有时。\n\n
+        A time to kill, and a time to heal;\n
+        杀戮有时，医治有时。\n\n
+        A time to break down, and a time to build up;\n
+        拆毁有时，建造有时。\n\n
+        A time to weep, and a time to laugh;\n
+        哭有时，笑有时。\n\n
+        A time to mourn, and a time to dance;\n
+        哀恸有时，跳舞有时。\n\n
+        A time to throw away stones, and a time to gather stones together;\n
+        抛掷石头有时，堆聚石头有时。\n\n
+        A time to embrace, and a time to refrain from embracing;\n
+        怀抱有时，不怀抱有时。\n\n
+        A time to seek, and a time to lose;\n
+        寻找有时，失落有时。\n\n
+        A time to keep, and a time to cast away;\n
+        保守有时，舍弃有时。\n\n
+        A time to tear, and a time to sew;\n
+        撕裂有时，缝补有时。\n\n
+        A time to keep silence, and a time to speak;\n
+        静默有时，言语有时。\n\n
+        A time to love, and a time to hate;\n
+        喜爱有时，恨恶有时。\n\n
+        A time for war; and a time for peace.\n
+        争战有时，和平有时。\n\n
+    </string>
+</resources>
